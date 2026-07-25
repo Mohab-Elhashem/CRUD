@@ -20,7 +20,9 @@ A lightweight and responsive interactive web application designed to manage data
 
 ## 📸 Screenshots
 
-(./images/preview.png)
+<p align="center">
+  <img src="./images/preview.png">
+</p>
 
 ## 🚀 Live Demo
 (https://mohab-elhashem.github.io/CRUD/)
